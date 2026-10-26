@@ -6,6 +6,8 @@ Led by Danielle Holmes, MSN, RN, CCRN, NI-BC, a registered nurse, nurse informat
 
 Cenorya explores how wearable physiological signals could support the decision to take a blood-pressure measurement with a validated cuff. The intended first-use research focus is Black women during pregnancy and postpartum. The current evidence review examines adult wearable sensing broadly; maternal-health research is coordinated separately.
 
+> **Not a medical device and not medical advice.** Cenorya does not measure blood pressure or detect any condition. If you are pregnant or postpartum and concerned about your blood pressure or symptoms, take a reading with a validated cuff and contact your clinician. For severe headache, vision changes, chest pain or trouble breathing, seek emergency care.
+
 ## What I am building
 
 The first prototype will collect optical pulse, motion, and local-temperature signals, preserve their timing, and make missing or unreliable data visible. The immediate goal is to establish what the system can reliably collect before developing or evaluating a clinical prediction model.
@@ -31,4 +33,12 @@ See the [prototype roadmap](docs/ROADMAP.md), [research status](docs/RESEARCH_ST
 
 Cenorya is separate from Postpartum Monitor. This public repository is a project overview, not the private research archive or the complete engineering checkout. No human recordings, health information, credentials, or unpublished research records are included.
 
-**Status updated October 26, 2026.** Cenorya is a provisional project name. No open-source license has been selected for this repository.
+## How this work is done
+
+Danielle Holmes is the principal investigator and final decision-maker. AI assistants (Claude by Anthropic and ChatGPT by OpenAI) help with drafting, literature checks and software. Their contributions are reviewed by Danielle, and AI-assisted literature judgments are not treated as independent human review.
+
+## Citing and reuse
+
+To reference this project, use the citation details in [CITATION.cff](CITATION.cff) (GitHub's "Cite this repository" button reads it). The contents are copyrighted and all rights are reserved; see [LICENSE](LICENSE). No open-source license has been selected yet. Contact Danielle through her [GitHub profile](https://github.com/dholmes1114) about reuse.
+
+**Status updated October 26, 2026.** Cenorya is a provisional project name.

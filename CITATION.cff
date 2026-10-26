@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you reference this project, please cite it as below."
+title: "Cenorya: experimental wearable sensing for cuff blood-pressure measurement decisions"
+abstract: >-
+  Public overview, prototype roadmap, research status and demonstration plan
+  for Cenorya, an early-stage wearable-sensing research project. It is not a
+  medical device and makes no blood-pressure accuracy or clinical claim.
+type: software
+authors:
+  - given-names: Danielle
+    family-names: Holmes
+    affiliation: "Clinically AI LLC"
+repository-code: "https://github.com/dholmes1114/cenorya"
+date-released: 2026-10-26
+keywords:
+  - wearable sensing
+  - blood pressure
+  - photoplethysmography
+  - signal quality
+  - maternal health
+  - pregnancy
+  - postpartum
