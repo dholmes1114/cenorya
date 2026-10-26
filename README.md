@@ -25,6 +25,8 @@ Synthetic software checks do not establish sensor performance or clinical valida
 
 A reproducible bench demonstration that streams sensor data, preserves timestamps and missingness, and displays usable, missing, and unreliable intervals. Any simulated prompts will be explicitly labeled synthetic and will not direct clinical care.
 
+See the [prototype roadmap](docs/ROADMAP.md), [research status](docs/RESEARCH_STATUS.md), and [demonstration plan](docs/DEMO_PLAN.md).
+
 ## Project boundaries
 
 Cenorya is separate from Postpartum Monitor. This public repository is a project overview, not the private research archive or the complete engineering checkout. No human recordings, health information, credentials, or unpublished research records are included.
