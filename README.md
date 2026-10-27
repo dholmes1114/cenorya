@@ -16,9 +16,9 @@ The longer-term research question is whether earlier wearable signals can help i
 
 ## Current stage
 
-- **Implemented in a separate development workspace:** a host-side USB stream checker and synthetic replay tools. This repository currently contains the public project overview and plans.
-- **Planned:** sensor assembly, firmware, physical capture verification, and a companion display showing collection status and data quality.
-- **In progress:** a scoping-review protocol and bounded comparison with existing research.
+- **Implemented in a separate development workspace:** a host-side USB stream checker, synthetic replay tools, and first bench firmware for the planned sensors. The firmware passes software tests on synthetic data only; it has not yet run on hardware. This repository currently contains the public project overview and plans.
+- **In progress:** bench sensor assembly and first hardware bring-up (week of October 27, 2026), and a structured review of existing research.
+- **Planned:** physical capture verification and a companion display showing collection status and data quality.
 - **Not established:** BP prediction accuracy, useful prompting performance, equitable physiological signal reliability, or clinical benefit.
 
 Synthetic software checks do not establish sensor performance or clinical validation. Cenorya currently provides no blood-pressure reading or validated clinical alert.

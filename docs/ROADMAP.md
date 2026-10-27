@@ -11,6 +11,8 @@ These are proposed milestones, not completed hardware or clinical results. Final
 
 The current bench plan names a Feather nRF52840 Express, MAX30101 optical sensor, LIS3DH accelerometer and TMP117 temperature sensor. This is a proposed configuration, not a compatibility certification or a claim that assembly is complete.
 
+**Status, October 27, 2026:** the bench parts have been ordered and hardware bring-up starts this week. First firmware is drafted: it streams raw optical (green, red, infrared), motion and local temperature readings with per-sensor sequence numbers, and records missing data as explicit gaps instead of dropping it silently. It passes software tests on synthetic data only and has not yet run on the hardware.
+
 ## 2 Examine signal quality
 
 - Define the meaning and provenance of each quality flag.

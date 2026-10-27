@@ -1,5 +1,9 @@
 # Public project updates
 
+## October 27 2026
+
+- Updated the current stage and the prototype roadmap: first bench firmware is drafted and software-tested on synthetic data only, and hardware bring-up starts this week.
+
 ## October 26 2026
 
 - Published the Cenorya project overview, prototype roadmap, research status and demonstration plan.
