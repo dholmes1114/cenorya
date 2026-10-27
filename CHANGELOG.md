@@ -2,6 +2,7 @@
 
 ## October 27 2026
 
+- Named the project's long-term goal, cuffless blood-pressure measurement, and how it would be validated. Cenorya still does not measure blood pressure.
 - Updated the current stage and the prototype roadmap: first bench firmware is drafted and software-tested on synthetic data only, and hardware bring-up starts this week.
 
 ## October 26 2026
